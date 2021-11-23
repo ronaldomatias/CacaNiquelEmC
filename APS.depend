@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1635997310 source:c:\users\ronal\onedrive\documentos\documentos faculdade\4 semestre\estrutura de dados\aps\aps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1637697042 source:c:\users\ronal\onedrive\documentos\documentos faculdade\4 semestre\estrutura de dados\aps\aps\aps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
